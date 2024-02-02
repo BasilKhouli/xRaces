@@ -1,0 +1,4 @@
+name: xRaces
+version: '${version}'
+main: me.basil.xraces.Main
+api-version: '1.20'
